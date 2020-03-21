@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://jessicong.xyz/"/>
+  <link href="https://jessicong.github.io/"/>
   <updated>2020-03-15T14:19:18.477Z</updated>
-  <id>https://jessicong.xyz/</id>
+  <id>https://jessicong.github.io/</id>
   
   <author>
     <name>JessiCong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="https://jessicong.xyz/2018/11/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
-    <id>https://jessicong.xyz/2018/11/30/第一篇博客.html</id>
+    <link href="https://jessicong.github.io/2018/11/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html"/>
+    <id>https://jessicong.github.io/2018/11/30/第一篇博客.html</id>
     <published>2018-11-30T09:30:00.000Z</published>
     <updated>2020-03-15T14:19:18.477Z</updated>
     
@@ -35,18 +35,18 @@
     
     </summary>
     
-      <category term="develop" scheme="https://jessicong.xyz/categories/develop/"/>
+      <category term="develop" scheme="https://jessicong.github.io/categories/develop/"/>
     
-      <category term="test" scheme="https://jessicong.xyz/categories/develop/test/"/>
+      <category term="test" scheme="https://jessicong.github.io/categories/develop/test/"/>
     
     
-      <category term="linux" scheme="https://jessicong.xyz/tags/linux/"/>
+      <category term="linux" scheme="https://jessicong.github.io/tags/linux/"/>
     
-      <category term="os" scheme="https://jessicong.xyz/tags/os/"/>
+      <category term="os" scheme="https://jessicong.github.io/tags/os/"/>
     
-      <category term="java" scheme="https://jessicong.xyz/tags/java/"/>
+      <category term="java" scheme="https://jessicong.github.io/tags/java/"/>
     
-      <category term="python" scheme="https://jessicong.xyz/tags/python/"/>
+      <category term="python" scheme="https://jessicong.github.io/tags/python/"/>
     
   </entry>
   
