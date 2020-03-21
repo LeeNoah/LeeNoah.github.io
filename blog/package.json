@@ -30,6 +30,6 @@
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-tag-color-block": "0.0.3",
     "hexo-tag-echarts": "^1.0.0",
-    "live2d-widget-model-koharu": "^1.0.5"
+    "live2d-widget-model-hijiki": "^1.0.5"
   }
 }

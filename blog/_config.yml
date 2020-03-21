@@ -123,7 +123,7 @@ live2d:
   tagMode: false
   debug: false
   model:
-    use: live2d-widget-model-koharu
+    use: live2d-widget-model-hijiki
   display:
     position: left
     width: 250
